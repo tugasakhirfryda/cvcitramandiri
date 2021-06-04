@@ -22,7 +22,10 @@
     width: 100%;
 }
 
-.carousel .carousel-inner .carousel-item
+.carousel
 {
+    height: auto;
+    width: auto;
+    overflow: hidden;
     max-height: 75vh;
 }
