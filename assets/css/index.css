@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+}
+
+.navbar
+{
+    background-color: #F7C200;
+}
+
+.navbar .navbar-nav .nav-link
+{
+    color: #344E5C;
+    cursor: pointer;
+}
+
+.container-fluid
+{
+    height: 100vh;
+    width: 100%;
+}
+
+.carousel-item
+{
+    max-height: 75vh;
+}
