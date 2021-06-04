@@ -30,7 +30,7 @@
     max-height: 50vh;
 }
 
-.carousel .carousel-inner .carousel-item img
+.carousel .carousel-inner .carousel-item .carousel-img
 {
     height: 100%;
 }
