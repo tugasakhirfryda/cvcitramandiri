@@ -22,7 +22,7 @@
     width: 100%;
 }
 
-.carousel-item
+.carousel .carousel-inner .carousel-item
 {
     max-height: 75vh;
 }
