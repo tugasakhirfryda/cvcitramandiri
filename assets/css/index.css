@@ -24,7 +24,7 @@
 
 .carousel
 {
-    height: auto;
+    height: 75vh;
     width: auto;
     overflow: hidden;
     max-height: 75vh;
